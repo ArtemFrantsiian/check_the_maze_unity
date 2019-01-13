@@ -1,0 +1,58 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 12.01.2019 14:26:55
+
+newmtl flor
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Viacheslav-PC\Downloads\Telegram Desktop\ModularDungeonMobileTileset\ModularDungeonMobileTileset\Textures\floor_02.tga
+	map_Kd C:\Users\Viacheslav-PC\Downloads\Telegram Desktop\ModularDungeonMobileTileset\ModularDungeonMobileTileset\Textures\floor_02.tga
+
+newmtl wall1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Viacheslav-PC\Downloads\Telegram Desktop\ModularDungeonMobileTileset\ModularDungeonMobileTileset\Textures\wall_01.tga
+	map_Kd C:\Users\Viacheslav-PC\Downloads\Telegram Desktop\ModularDungeonMobileTileset\ModularDungeonMobileTileset\Textures\wall_01.tga
+
+newmtl wall2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Viacheslav-PC\Downloads\Telegram Desktop\ModularDungeonMobileTileset\ModularDungeonMobileTileset\Textures\wall_03.tga
+	map_Kd C:\Users\Viacheslav-PC\Downloads\Telegram Desktop\ModularDungeonMobileTileset\ModularDungeonMobileTileset\Textures\wall_03.tga
+
+newmtl props
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Viacheslav-PC\Downloads\Telegram Desktop\ModularDungeonMobileTileset\ModularDungeonMobileTileset\Textures\props_small.tga
+	map_Kd C:\Users\Viacheslav-PC\Downloads\Telegram Desktop\ModularDungeonMobileTileset\ModularDungeonMobileTileset\Textures\props_small.tga
